@@ -1,15 +1,13 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react'
 
 class Profile extends Component {
-
-  render() {
+  render () {
     return (
       <div>
         <h1>Profile...</h1>
       </div>
-
-    );
+    )
   }
 }
 
-export default Profile;
+export default Profile
